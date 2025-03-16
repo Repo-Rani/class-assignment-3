@@ -1,4 +1,4 @@
-# full diamond shape pyramid pattern
+# full diamond shape pyramid pattren
 
 rows = 5  
 
